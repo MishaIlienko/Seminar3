@@ -30,4 +30,6 @@
 Удаленные репозитории используются для
 
 ### Связывание локального репизитория с удаленным
-Новые изменения от коллеги
+
+To connect my local repository with a remote, we should use the hints from GitHub.
+
